@@ -7,7 +7,7 @@ tags:
 categories:
 - Life
 ---
-![Cover](children.png)
+!(children.png)
 
 As a stay-at-home wife, I love to gather wisdom, training, and encouragement from other women who are keepers of the home and caretakers of the family. I find myself in a unique position, as my family is a simple family of two (three including the dog). Without divulging private information about why this is the case after five years of marriage, I will simply express that I am joyful and content with the family God has given me.
 
