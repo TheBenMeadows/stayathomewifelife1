@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Stay-at-Home Wife Life
 subtitle:
 description:
 keywords:
-author: John Doe
+author: Lauren Meadows
 language: 
   - en
   - zh-cn
@@ -17,7 +17,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://yoursite.com
+url: https://stayathomewifelife1.netlify.com
 root: /
 permalink: :lang/:year/:month/:day/:title/
 permalink_defaults:
