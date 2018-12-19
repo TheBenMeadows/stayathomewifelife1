@@ -7,6 +7,8 @@ tags:
 categories:
 - Life
 ---
+{% fancybox /source/images/uploads/Being_a_Wife_Without_Childrenm.png [Cover] %}
+
 As a stay-at-home wife, I love to gather wisdom, training, and encouragement from other women who are keepers of the home and caretakers of the family. I find myself in a unique position, as my family is a simple family of two (three including the dog). Without divulging private information about why this is the case after five years of marriage, I will simply express that I am joyful and content with the family God has given me.
 
 While scrolling through my Pinterest feed, I came across one stay-at-home blogger who expressed that she was eager to "graduate" from stay-at-home wife to stay-at-home mom status. There is obviously quite the stigma in today's society regarding women who decide to refrain from working outside the home. I would argue there is an even greater stigma for those who make that decision without children.
