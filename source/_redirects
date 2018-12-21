@@ -11,4 +11,5 @@
 /about      /es/about  302  Language=es
 /archives/* /en/archives/:splat 302 Language=es
 
-
+# Redirect default Netlify subdomain to primary domain
+https://stayathomewifelife.netlify.com/* https://www.stayathomewifelife.com/:splat 301!
