@@ -8,6 +8,8 @@ subtitle:
 description:
 keywords:
 author: Lauren Meadows
+language: 
+- en
 
 timezone:
 
@@ -15,7 +17,7 @@ timezone:
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://stayathomewifelife1.netlify.com
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :lang/:year/:month/:day/:title/
 permalink_defaults:
 
 # Directory
@@ -25,6 +27,7 @@ tag_dir: tags
 archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
+i18n_dir: :lang
 skip_render: 
   - "*admin/*"
 
